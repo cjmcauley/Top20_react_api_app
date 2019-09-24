@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  padding: 15px;
+  background-color: #95C3A1;
+  width: 80%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-bottom: 5px solid #FFFFFF;
+}
+.txt{
+  padding-left: 25px;
+}
+.artist{
+  font-size: 32px;
+  margin: 0px;
+  font-weight: 400;
+  color: #FFFFFF;
+  font-style: italic;
+}
+.title{
+  font-size: 44px;
+  margin: 0px;
+
+}
+.label{
+  align-content: baseline;
+  font-size: 11px;
+  font-style: italic;
+}
