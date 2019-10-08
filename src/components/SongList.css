@@ -4,9 +4,10 @@ ol, li{
   padding-right: 0;
   font-size: 44px;
   font-weight: bold;
+  list-style-position: outside;
 }
 
 ol{
   padding-inline-start: 80px;
-
+  color: #FFFFFF;
 }
