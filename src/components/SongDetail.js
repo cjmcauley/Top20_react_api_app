@@ -17,7 +17,6 @@ const SongDetail = ({song}) => {
         </h3>
         <audio controls>
         <source src={song.link[1].attributes.href} />
-        Your browser does not support the audio element.
         </audio>
       </div>
     </div>
