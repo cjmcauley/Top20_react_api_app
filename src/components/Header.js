@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
   return(
-    <h1 class="header">UK Top 20</h1>
+    <h1 className="header">UK Top 20</h1>
   )
 }
 

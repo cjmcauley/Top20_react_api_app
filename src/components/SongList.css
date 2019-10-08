@@ -1,0 +1,10 @@
+ol, li{
+  font-size: 40px;
+  margin: 0 auto;
+  padding-right: 0;
+}
+
+ol{
+  padding-inline-start: 80px;
+
+}
